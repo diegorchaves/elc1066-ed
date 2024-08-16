@@ -1,0 +1,1 @@
+Exercicios sobre alocação dinâmica e matrizes em linguagem C.
